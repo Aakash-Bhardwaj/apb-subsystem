@@ -1,10 +1,10 @@
-# APB Peripheral Subsystem
+# APB Subsystem
 
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-RTL-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
 
-A reusable, parameterized **SystemVerilog APB Peripheral Subsystem** integrating an APB Master, APB Interconnect, and memory-mapped UART, SPI, and I²C peripherals.
+A reusable, parameterized **SystemVerilog APB Subsystem** integrating an APB Master, APB Interconnect, and memory-mapped UART, SPI, and I²C peripherals.
 
 The subsystem reuses the existing UART, FIFO, SPI, and I²C IP while providing a common APB-based register interface for system-level peripheral integration.
 
@@ -137,7 +137,7 @@ Final Documentation Review
 # Project Status
 
 - [x] Repository initialized
-- [ ] Project specification
+- [x] Project specification
 - [ ] Architecture
 - [ ] Initial documentation
 - [ ] APB Master RTL
