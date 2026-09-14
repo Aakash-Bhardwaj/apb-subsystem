@@ -138,8 +138,8 @@ Final Documentation Review
 
 - [x] Repository initialized
 - [x] Project specification
-- [ ] Architecture
-- [ ] Initial documentation
+- [x] Architecture
+- [x] Initial documentation
 - [ ] APB Master RTL
 - [ ] APB Interconnect RTL
 - [ ] UART APB Peripheral RTL
